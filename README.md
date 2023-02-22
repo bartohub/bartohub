@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bartohub
-- 👀 I’m interested in design, illustration, animation, front-end development and food - amongst many other things.
+- 👀 I’m interested in design, illustration, animation and music - amongst many other things.
 - 🌱 I’m currently learning Ruby and sharpening my skills in html/css.
 - 📫 How to reach me Email: abartokc@gmail.com Instagram: @iluvbarto
 
